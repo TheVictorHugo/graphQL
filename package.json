@@ -1,0 +1,23 @@
+{
+  "name": "graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheVictorHugo/graphQL.git"
+  },
+  "author": "Victor Hugo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheVictorHugo/graphQL/issues"
+  },
+  "homepage": "https://github.com/TheVictorHugo/graphQL#readme",
+  "dependencies": {
+    "apollo-server": "^3.11.1",
+    "graphql": "^16.6.0"
+  }
+}
